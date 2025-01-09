@@ -26,6 +26,9 @@ int main(){
     bool issafe=true;
     int value=grade;
     int val=(int)ha;
+    int a;
+    cin>>a;
+    cout<<a;
     cout<< val<<endl; //sizeof of used for knowing the size of an variable
     return 0;
 }
