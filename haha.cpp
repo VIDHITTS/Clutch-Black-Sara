@@ -49,4 +49,5 @@ int main(){
     cout<< val<<endl; //sizeof of used for knowing the size of an variable
     int a=00
     return 0;
+    int f=0
 }
