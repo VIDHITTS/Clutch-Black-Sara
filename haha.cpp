@@ -47,8 +47,8 @@ int main(){
     cin>>a;
     cout<<a;
     cout<< val<<endl; //sizeof of used for knowing the size of an variable
-    int a=00
-    int f=0
-    int f=0
+    int a=00;
+    int f=0;
+    int f=0;
     return 0;
 }
