@@ -50,5 +50,6 @@ int main(){
     int a=00;
     int f=0;
     int f=0;
+    int a=0
     return 0;
 }
